@@ -13,7 +13,7 @@ A compendium of excellent technical and product documentation written by @nelson
 - [Alpine Chorus Jobs](https://github.com/nelsonam/doctocat/blob/master/Alpine/Jobs.pdf) (A)
 
 ## Technical Blog Posts
-- [Introduction to Gentetic Algorithms](https://themusegarden.wordpress.com/2013/05/17/introduction-to-genetic-algorithms/) (B)
+- [Introduction to Genetic Algorithms](https://themusegarden.wordpress.com/2013/05/17/introduction-to-genetic-algorithms/) (B)
 - [A Genetic Algorithm Approach to Ramsey Theory](https://themusegarden.wordpress.com/2013/05/11/a-genetic-algorithm-approach-to-ramsey-theory/) (B)
 
 ## Legend
