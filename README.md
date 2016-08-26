@@ -1,6 +1,6 @@
 # Doctocat
 
-A compendium of excellent technical and product documentation written by @nelsonam.
+A compendium of technical and product documentation written by @nelsonam.
 
 ## Technical (Code-Heavy)
  - [Building Your First Custom Operator in Scala](https://github.com/nelsonam/doctocat/blob/master/Alpine/CustomOperator.pdf) (A)
